@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 style="text-align: center">  🐭 dancer13 🐭 </h1>
 
-<!--
-**dancer1325/dancer1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+  - company goals
+  - personal projects
+- 🧠 I’m continuously learning
+- 👯 I’m looking to collaborate on challenged and fundamental open source projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=dancer1325&show_icons=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancer1325&layout=compact" alt="Used languages non-forked" />
+</div>
